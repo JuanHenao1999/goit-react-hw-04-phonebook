@@ -1,0 +1,15 @@
+.form-container{
+    border: 1px solid gray;
+    padding: 10px;
+    width: 300px;
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.add-contact{
+    cursor: pointer;
+}

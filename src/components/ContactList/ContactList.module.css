@@ -1,0 +1,9 @@
+.container-contact{
+    display: flex;
+    gap: 10px;
+    padding: 5px;
+}
+
+.delete-contact{
+    cursor: pointer;
+}
